@@ -1,6 +1,8 @@
 
 **Baixe o projeto e siga as instruções:**
 
+![plot](./images/prova.gif)
+
 Primeiro na sua classe `MainActivity`, adicione seu **nome completo** no local indicado.
 
   ![plot](./images/nomealuno.png)
